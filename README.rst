@@ -15,6 +15,6 @@ SETUP and RUN
 
 Architecture Magnum API
 =================================
-
-![](https://user-images.githubusercontent.com/74556484/199879828-24812e6b-aeab-41c6-99e9-fd948b3b5731.png)
+<img width="914" alt="React Boilerplate Meets CRA" src="https://user-images.githubusercontent.com/74556484/199879828-24812e6b-aeab-41c6-99e9-fd948b3b5731.png" align="center">
+<br />
 
